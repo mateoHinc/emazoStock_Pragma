@@ -1,0 +1,2 @@
+# emazoStock_Pragma
+ 
